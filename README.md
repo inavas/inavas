@@ -1,6 +1,6 @@
 ## Who am I?
 
-Hi 👋, I'm Inma Navas, a Software Engineer from Barcelona (Spain) currently working as Engineering Manager at @Mango.
+Hi 👋, I'm **Inma Navas**, a **Software Engineer** from Barcelona (Spain) currently working as **Engineering Manager** at @Mango.
 
 ## Tech talks
 
